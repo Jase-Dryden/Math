@@ -1,7 +1,7 @@
 def Main():
-    r1 = input("Enter the first equation's coeficents separtaed by commas: \n")
-    r2 = input("Enter the second equation's coeficents separtaed by commas: \n")
-    r3 = input("Enter the third equation's coeficents separtaed by commas: \n")
+    r1 = input("Enter the first equation's coefficients separtaed by commas: \n")
+    r2 = input("Enter the second equation's coefficients separtaed by commas: \n")
+    r3 = input("Enter the third equation's coefficients separtaed by commas: \n")
     con = input("Enter in the constants of the equations separted by commas: \n")
     r1 = r1.split(",")
     r2 = r2.split(",")
