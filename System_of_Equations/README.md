@@ -2,16 +2,11 @@
 
 When I first started working on the system of equations, I always questioned how a computer would be able to find out the answers to this problem. So, for my self-directed learning project I decided to investigate the matter a little further. I wanted to find a way of solving 2x2 and 3x3 system of equation with Python.
 
-### Discovery
-
-vWhen I started my research, I found the determinant method, it uses matrices to solve the system of equations. It took me to understand how it worked and how I would be able to implement it into code. From my understanding I will explain how the determinant method works.
-
-
-
+When I started my research, I found the determinant method, it uses matrices to solve the system of equations. It took me to understand how it worked and how I would be able to implement it into code. The majority of my information about the determinant method came from this website [here](https://pressbooks.bccampus.ca/algebraintermediate/chapter/solve-systems-of-equations-using-determinants/).
 
 ### Code
 
-When I first started developing this program, I made a chart that would help me visualize the matrix and the naming of the variable that I would be using in my program. I would use this to then create the math equation to D, DX, DY and DZ.
+When I first started developing this program, I made a chart that would help me visualize the matrix and the naming of the variable that I would be using in my program. I would use this to then create the math equation to D, DX, DY and DZ. These values will be used to find the X, Y and Z location of the final intersecting point or determine of the equation is an infinite solution or no solution.
 
 ```python
 # X1,Y1,Z1  X
@@ -28,9 +23,9 @@ When I first started developing this program, I made a chart that would help me 
 I first had to ask the user to enter in the coefficients and constants of each of the equations. The coefficients would be separated by commas to make it easier for to separate the values.
 
 ```python
-r1 = input("Enter the first equation's coeficents separtaed by commas: \n")
-r2 = input("Enter the second equation's coeficents separtaed by commas: \n")
-r3 = input("Enter the third equation's coeficents separtaed by commas: \n")
+r1 = input("Enter the first equation's coefficients separtaed by commas: \n")
+r2 = input("Enter the second equation's coefficients separtaed by commas: \n")
+r3 = input("Enter the third equation's coefficients separtaed by commas: \n")
 con = input("Enter in the constants of the equations separted by commas: \n")
 r1 = r1.split(",")
 r2 = r2.split(",")
@@ -83,3 +78,5 @@ try:
 except ZeroDivisionError:
     print("This equation has no solution.")
 ```
+
+If you would like to see the code file click [here](https://github.com/Jase-Dryden/Math/blob/main/System_of_Equations/Math_109_01.py).
