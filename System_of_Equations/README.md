@@ -1,6 +1,6 @@
 ## System of Equations Self-Directed Learning Project
 
-When I first started working on the system of equations, I always questioned how a computer would be able to find out the answers to this problem. So, for my self-directed learning project I decided to investigate the matter a little further. I wanted to find a way of solving 2x2 and 3x3 system of equation with Python.
+When I first started working on the system of equations, I always questioned how a computer would be able to find out the answers to this problem. So, for my self-directed learning project I decided to investigate the matter a little further. I wanted to find a way of solving 3x3 system of equation with Python.
 
 When I started my research, I found the determinant method, it uses matrices to solve the system of equations. It took me to understand how it worked and how I would be able to implement it into code. The majority of my information about the determinant method came from this website [here](https://pressbooks.bccampus.ca/algebraintermediate/chapter/solve-systems-of-equations-using-determinants/).
 
@@ -20,7 +20,7 @@ When I first started developing this program, I made a chart that would help me 
 
 ```
 
-I first had to ask the user to enter in the coefficients and constants of each of the equations. The coefficients would be separated by commas to make it easier for to separate the values.
+I first had to ask the user to enter in the coefficients and constants of each of the equations.As an example if I have the equation 3x - 5y + 4z = 5, my coefficients would be 3, -5, 4 and my constant would be 5. The coefficients would be separated by commas to make it easier for to separate the values.
 
 ```python
 r1 = input("Enter the first equation's coefficients separtaed by commas: \n")
