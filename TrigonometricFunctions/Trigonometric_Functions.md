@@ -14,8 +14,8 @@
 | $$D = {R * {180 \over \pi}}$$                      | $$R = {D * {\pi \over 180}}$$   |
 |----------------------------------------------------|---------------------------------|
 | Convert $3 \pi \over 7$ radians to degree measure. | Convert 266° to radian measure. |
-| $D = {3 \pi \over 7} * {180 \over \pi}$            | $R = 266 * {\pi \over 180}$     |
-| $D = 77.14$                                        | $R = 4.64$                     |
+| $$D = {3 \pi \over 7} * {180 \over \pi}$$            | $$R = 266 * {\pi \over 180}$$     |
+| $$D = 77.14$$                                       | $$R = 4.64$$                     |
 
 
 ### Use equilateral and isosceles triangles to compute the values of the six trigonometric functions at any multiple of 30 and 45 degrees.
@@ -72,14 +72,14 @@ The period is $3\pi \over 2$
 
 The horizontal distance D of an object launched at an angle $\theta$ with initial velocity $v$ is given by the following formula.
 
-$D = {v^{2}\sin(2\theta) \over g}$
+$$D = {v^{2}\sin(2\theta) \over g}$$
 
 If $g = 9.8 \space m/s^2$, find the horizontal distance of an object when $v = 90 \space m/s$, and $\theta = {2\pi \over 5}$ rad. Round your answer to the nearest hundredth.
 
 Fill in the values and simplity.
 
-|$D = {v^{2}\sin(2\theta) \over g}$|
+|$$D = {v^{2}\sin(2\theta) \over g}$$|
 |----------------------------------|
-|$D = {90^{2}\sin(2{2\pi \over 5}) \over 9.8}$|
-|$D = {8100\sin({4\pi \over 5}) \over 9.8}$|
-|$D = 485.82 \space m$|
+|$$D = {90^{2}\sin(2{2\pi \over 5}) \over 9.8}$$|
+|$$D = {8100\sin({4\pi \over 5}) \over 9.8}$$|
+|$$D = 485.82 \space m$$|
