@@ -25,13 +25,13 @@
 ### Construct graphs of the six trigonometric functions and find their periods.
 
 |$$y = {3 \over 2}\sin({1 \over 2}x)$$|$$y = -2\cos(3x)$$      |$$y = \tan(\pi x + {\pi \over 2})$$|
-|-------------------------------------|------------------------|-----------------------------------|
-|![](image-3.png)                     |![](image-2.png)        |![](image-5.png)                   |
+|:-----------------------------------:|:----------------------:|:---------------------------------:|
+|![Alt text](image-3.png)             |![Alt text](image-2.png)|![Alt text](image-5.png)           |
 |Period = $4\pi$                      |Period = $2\pi \over 3$ |Period = $$                        |
 
 |$$y = 2\csc({\pi x \over2})$$|$$y = \sec(x + {\pi \over 4})$$|$$y = \cot({\pi x \over 2})$$ |
-|-----------------------------|-------------------------------|------------------------------|
-|![](image-6.png)             |![](image-4.png)               |                              |
+|:---------------------------:|:-----------------------------:|:----------------------------:|
+|![Alt text](image-6.png)     |![Alt text](image-4.png)       |                              |
 |Period = $$                  |period = $2\pi$                |Period = $3\pi \over 4$       |
 ### Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
 
