@@ -46,7 +46,7 @@
 
 |$$y = 2\csc({\pi x \over2})$$|$$y = \sec(x + {\pi \over 4})$$|$$y = \cot({\pi x \over 2})$$ |
 |:---------------------------:|:-----------------------------:|:----------------------------:|
-|![Alt text](https://github.com/Jase-Dryden/Math/blob/af48f62ff658b77e3655ac6e89a3b60f784d05ea/TrigonometricFunctions/image-6.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/af48f62ff658b77e3655ac6e89a3b60f784d05ea/TrigonometricFunctions/image-4.png)|![Alt text](image-14.png)|
+|![Alt text](https://github.com/Jase-Dryden/Math/blob/af48f62ff658b77e3655ac6e89a3b60f784d05ea/TrigonometricFunctions/image-6.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/af48f62ff658b77e3655ac6e89a3b60f784d05ea/TrigonometricFunctions/image-4.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/2d47ba7d4d9a7e91626d484142415a8cf8ce4e80/TrigonometricFunctions/image-14.png)|
 |Period = $5\pi \over 4$|Period = $2\pi$|Period = $3\pi \over 4$|
 ### Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
 
