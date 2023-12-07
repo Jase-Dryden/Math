@@ -1,0 +1,53 @@
+# Trigonometric Functions
+
+## Key Objectives
+
+1. Transfer from degree measure to radian measure and vice versa.
+2. Use equilateral and isosceles triangles to compute the values of the six trigonometric functions at any multiple of 30 and 45 degrees.
+3. Construct graphs of the six trigonometric functions and find their periods.
+4. Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
+5. Use the inverse trig functions to find angles.
+6. Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
+
+## Transfer from degree measure to radian measure and vice versa.
+
+
+$$D = {R * {180 \over \pi}}$$
+
+Convert $3 \pi \over 7$ radians to degree measure.
+
+$D = {3 \pi \over 7} * {180 \over \pi}$
+
+$D = 77.14$
+
+$$R = {D * {\pi \over 180}}$$
+
+Convert 266° to radian measure.
+
+$R = 266 * {\pi \over 180}$
+
+$ R = 4.64$
+
+## Use equilateral and isosceles triangles to compute the values of the six trigonometric functions at any multiple of 30 and 45 degrees.
+
+## Construct graphs of the six trigonometric functions and find their periods.
+
+## Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
+
+## Use the inverse trig functions to find angles.
+
+$$y = \sin^{-1} x$$
+
+$\sin^{-1} (- {\sqrt{3} \over 2})$
+
+$-{\pi \over 3}$ or 120°
+
+$$y = \cos^{-1} x$$
+
+$\cos^{-1} ({\sqrt{2} \over 2})$
+
+$-{\pi \over 4}$ or 45°
+
+$$y = \tan^{-1} x$$
+
+## Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
