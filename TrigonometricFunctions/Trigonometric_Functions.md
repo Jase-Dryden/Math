@@ -69,3 +69,17 @@ The period is $3\pi \over 2$
 | $-{\pi \over 3}$ or $120°$         | $-{\pi \over 4}$ or $45°$        | ${\pi \over 3}$ or $60°$ |
 
 ### Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
+
+The horizontal distance D of an object launched at an angle $\theta$ with initial velocity $v$ is given by the following formula.
+
+$D = {v^{2}\sin(2\theta) \over g}$
+
+If $g = 9.8 \space m/s^2$, find the horizontal distance of an object when $v = 90 \space m/s$, and $\theta = {2\pi \over 5}$ rad. Round your answer to the nearest hundredth.
+
+Fill in the values and simplity.
+
+|$D = {v^{2}\sin(2\theta) \over g}$|
+|----------------------------------|
+|$D = {90^{2}\sin(2{2\pi \over 5}) \over 9.8}$|
+|$D = {8100\sin({4\pi \over 5}) \over 9.8}$|
+|$D = 485.82 \space m$|
