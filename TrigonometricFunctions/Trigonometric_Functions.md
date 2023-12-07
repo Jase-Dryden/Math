@@ -20,7 +20,22 @@
 
 ### Use equilateral and isosceles triangles to compute the values of the six trigonometric functions at any multiple of 30 and 45 degrees.
 
+|$\sin = {o \over h}$|$\cos = {a \over h}$|$\tan = {\sin \over \cos}$|
+|-|-|-|
+|$\csc = {1 \over \sin}$|$\sec = {1 \over \cos}$|$\tan = {\cos \over \sin}$|
 
+|Degrees|Radians|$$\sin\theta$$|$$\cos\theta$$|$$\tan\theta$$|$$\csc\theta$$|$$\sec\theta$$|$$\cot\theta$$|
+|-|-|-|-|-|-|-|-|
+|$30°$|$\pi \over 6$|$1 \over 2$|$\sqrt{3} \over 2$|$\sqrt{3} \over 3$|$2$|$2\sqrt{3} \over 3$|$\sqrt{3}$|
+|$45°$|$\pi \over 4$|$\sqrt{2} \over 2$|$\sqrt{2} \over 2$|$1$|$\sqrt{2}$|$\sqrt{2}$|$1$|
+|$60°$|$\pi \over 3$|$\sqrt{3} \over 2$|$1 \over 2$|$\sqrt{3}$|$2\sqrt{3} \over 3$|$2$|$\sqrt{3} \over 3$|
+
+|$$45°$$|$$30° \space\space 60°$$|
+|-|-|
+|![Alt text](image-11.png)|![Alt text](image-7.png)|
+|![Alt text](image-12.png)|![Alt text](image-8.png)|
+|![Alt text](image-13.png)|![Alt text](image-9.png)|
+||![Alt text](image-10.png)|
 
 ### Construct graphs of the six trigonometric functions and find their periods.
 
