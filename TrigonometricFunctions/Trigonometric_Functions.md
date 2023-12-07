@@ -26,7 +26,7 @@
 
 |$$y = {3 \over 2}\sin({1 \over 2}x)$$|$$y = -2\cos(3x)$$      |$$y = \tan(\pi x + {\pi \over 2})$$|
 |:-----------------------------------:|:----------------------:|:---------------------------------:|
-|![Alt text](image-3.png)             |![Alt text](image-2.png)|![Alt text](image-5.png)           |
+|![Alt text](TrigonometricFunctions/image-3.png)             |![Alt text](TrigonometricFunctions/image-2.png)|![Alt text](TrigonometricFunctions/image-5.png)           |
 |Period = $4\pi$                      |Period = $2\pi \over 3$ |Period = $$                        |
 
 |$$y = 2\csc({\pi x \over2})$$|$$y = \sec(x + {\pi \over 4})$$|$$y = \cot({\pi x \over 2})$$ |
