@@ -1,6 +1,6 @@
-# Trigonometric Functions
+## Trigonometric Functions
 
-## Key Objectives
+### Key Objectives
 
 1. Transfer from degree measure to radian measure and vice versa.
 2. Use equilateral and isosceles triangles to compute the values of the six trigonometric functions at any multiple of 30 and 45 degrees.
@@ -9,32 +9,24 @@
 5. Use the inverse trig functions to find angles.
 6. Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
 
-## Transfer from degree measure to radian measure and vice versa.
+### Transfer from degree measure to radian measure and vice versa.
+
+| $$D = {R * {180 \over \pi}}$$                      | $$R = {D * {\pi \over 180}}$$   |
+|----------------------------------------------------|---------------------------------|
+| Convert $3 \pi \over 7$ radians to degree measure. | Convert 266° to radian measure. |
+| $D = {3 \pi \over 7} * {180 \over \pi}$            | $R = 266 * {\pi \over 180}$     |
+| $D = 77.14$                                        | $ R = 4.64$                     |
 
 
-$$D = {R * {180 \over \pi}}$$
+### Use equilateral and isosceles triangles to compute the values of the six trigonometric functions at any multiple of 30 and 45 degrees.
 
-Convert $3 \pi \over 7$ radians to degree measure.
 
-$D = {3 \pi \over 7} * {180 \over \pi}$
 
-$D = 77.14$
+### Construct graphs of the six trigonometric functions and find their periods.
 
-$$R = {D * {\pi \over 180}}$$
+### Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
 
-Convert 266° to radian measure.
-
-$R = 266 * {\pi \over 180}$
-
-$ R = 4.64$
-
-## Use equilateral and isosceles triangles to compute the values of the six trigonometric functions at any multiple of 30 and 45 degrees.
-
-## Construct graphs of the six trigonometric functions and find their periods.
-
-## Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
-
-## Use the inverse trig functions to find angles.
+### Use the inverse trig functions to find angles.
 
 $$y = \sin^{-1} x$$
 
@@ -50,4 +42,4 @@ $-{\pi \over 4}$ or 45°
 
 $$y = \tan^{-1} x$$
 
-## Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
+### Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
