@@ -26,7 +26,7 @@
 
 ### Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
 
-Graph $y = 2\cos({3 \over 2}x)- 2$
+Graph $y = 2\cos({3 \over 2}(x + {\pi \over 3}))- 2$
 
 Break down the equation, start from the bottom and work your way through it.
 
@@ -36,15 +36,21 @@ $y = \cos(x)$
 
 $y = \cos({3 \over 2}x)$
 
-![Alt text](image-1.png)
+![Alt text](<Screenshot 2023-12-07 020847.png>)
 
 $y = 2\cos({3 \over 2}x)$
 
-![Alt text](image-2.png)
+![Alt text](<Screenshot 2023-12-07 021050.png>)
 
 $y = 2\cos({3 \over 2}x)- 2$
 
-![Alt text](image-3.png)
+![Alt text](<Screenshot 2023-12-07 021212.png>)
+
+$y = 2\cos({3 \over 2}(x + {\pi \over 3}))- 2$
+
+![Alt text](image-1.png)
+
+The period is $3\pi \over 2$
 
 ### Use the inverse trig functions to find angles.
 
