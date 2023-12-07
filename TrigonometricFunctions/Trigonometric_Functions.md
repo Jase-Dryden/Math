@@ -70,7 +70,7 @@ The period is $3\pi \over 2$
 
 ### Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
 
-The horizontal distance D of an object launched at an angle $$\theta$$ with initial velocity $$v$$ is given by the following formula.
+The horizontal distance D of an object launched at an angle $\theta$ with initial velocity $v$ is given by the following formula.
 
 $D = {v^{2}\sin(2\theta) \over g}$
 
@@ -80,6 +80,6 @@ Fill in the values and simplity.
 
 |$$D = {v^{2}\sin(2\theta) \over g}$$|
 |----------------------------------|
-|$$D = {90^{2}\sin(2{2\pi \over 5}) \over 9.8}$$|
-|$$D = {8100\sin({4\pi \over 5}) \over 9.8}$$|
-|$$D = 485.82 \space m$$|
+|$D = {90^{2}\sin(2{2\pi \over 5}) \over 9.8}$|
+|$D = {8100\sin({4\pi \over 5}) \over 9.8}$|
+|$D = 485.82 \space m$|
