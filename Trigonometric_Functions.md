@@ -15,7 +15,7 @@
 |----------------------------------------------------|---------------------------------|
 | Convert $3 \pi \over 7$ radians to degree measure. | Convert 266° to radian measure. |
 | $D = {3 \pi \over 7} * {180 \over \pi}$            | $R = 266 * {\pi \over 180}$     |
-| $D = 77.14$                                        | $ R = 4.64$                     |
+| $D = 77.14$                                        | $R = 4.64$                     |
 
 
 ### Use equilateral and isosceles triangles to compute the values of the six trigonometric functions at any multiple of 30 and 45 degrees.
@@ -28,18 +28,28 @@
 
 ### Use the inverse trig functions to find angles.
 
+| $$y = \sin^{-1} x$$                | $$y = \cos^{-1} x$$              | $$y = \tan^{-1} x$$      |
+|------------------------------------|----------------------------------|--------------------------|
+| $\sin^{-1} (- {\sqrt{3} \over 2})$ | $\cos^{-1} ({\sqrt{2} \over 2})$ | $\tan^{-1} (\sqrt{3})$   |
+| $-{\pi \over 3}$ or $120°$         | $-{\pi \over 4}$ or $45°$        | ${\pi \over 3}$ or $60°$ |
+
+
 $$y = \sin^{-1} x$$
 
 $\sin^{-1} (- {\sqrt{3} \over 2})$
 
-$-{\pi \over 3}$ or 120°
+$-{\pi \over 3}$ or $120°$
 
 $$y = \cos^{-1} x$$
 
 $\cos^{-1} ({\sqrt{2} \over 2})$
 
-$-{\pi \over 4}$ or 45°
+${\pi \over 4}$ or $45°$
 
 $$y = \tan^{-1} x$$
+
+$\tan^{-1} (\sqrt{3})$
+
+${\pi \over 3}$ or $60°$
 
 ### Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
