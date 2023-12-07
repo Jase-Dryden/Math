@@ -32,10 +32,10 @@
 
 |$$45°$$|$$30° \space\space 60°$$|
 |-|-|
-|![Alt text](image-11.png)|![Alt text](image-7.png)|
-|![Alt text](image-12.png)|![Alt text](image-8.png)|
-|![Alt text](image-13.png)|![Alt text](image-9.png)|
-||![Alt text](image-10.png)|
+|![Alt text](https://github.com/Jase-Dryden/Math/blob/f2a5465617e98419dbb507c4220d5dfe5a5a8cfe/TrigonometricFunctions/image-11.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/f2a5465617e98419dbb507c4220d5dfe5a5a8cfe/TrigonometricFunctions/image-7.png)|
+|![Alt text](https://github.com/Jase-Dryden/Math/blob/f2a5465617e98419dbb507c4220d5dfe5a5a8cfe/TrigonometricFunctions/image-12.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/f2a5465617e98419dbb507c4220d5dfe5a5a8cfe/TrigonometricFunctions/image-8.png)|
+|![Alt text](https://github.com/Jase-Dryden/Math/blob/f2a5465617e98419dbb507c4220d5dfe5a5a8cfe/TrigonometricFunctions/image-13.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/f2a5465617e98419dbb507c4220d5dfe5a5a8cfe/TrigonometricFunctions/image-9.png)|
+||![Alt text](https://github.com/Jase-Dryden/Math/blob/f2a5465617e98419dbb507c4220d5dfe5a5a8cfe/TrigonometricFunctions/image-10.png)|
 
 ### Construct graphs of the six trigonometric functions and find their periods.
 
