@@ -33,23 +33,4 @@
 | $\sin^{-1} (- {\sqrt{3} \over 2})$ | $\cos^{-1} ({\sqrt{2} \over 2})$ | $\tan^{-1} (\sqrt{3})$   |
 | $-{\pi \over 3}$ or $120°$         | $-{\pi \over 4}$ or $45°$        | ${\pi \over 3}$ or $60°$ |
 
-
-$$y = \sin^{-1} x$$
-
-$\sin^{-1} (- {\sqrt{3} \over 2})$
-
-$-{\pi \over 3}$ or $120°$
-
-$$y = \cos^{-1} x$$
-
-$\cos^{-1} ({\sqrt{2} \over 2})$
-
-${\pi \over 4}$ or $45°$
-
-$$y = \tan^{-1} x$$
-
-$\tan^{-1} (\sqrt{3})$
-
-${\pi \over 3}$ or $60°$
-
 ### Apply trigonometry to compute distances (such as heights of buildings, distances to travel, etc.)
