@@ -38,16 +38,16 @@
 ||![Alt text](https://github.com/Jase-Dryden/Math/blob/f2a5465617e98419dbb507c4220d5dfe5a5a8cfe/TrigonometricFunctions/image-10.png)|
 
 ### Construct graphs of the six trigonometric functions and find their periods.
-
-|$$y = {3 \over 2}\sin({1 \over 2}x)$$|$$y = -2\cos(3x)$$      |$$y = \tan(\pi x + {\pi \over 2})$$|
+Period = $2\pi \over b$
+|$$y = {3 \over 2}\sin({1 \over 2}x)$$|$$y = -2\cos(3x)$$      |$$y = \tan({5 \over 6} x + {\pi \over 2})$$|
 |:-----------------------------------:|:----------------------:|:---------------------------------:|
-|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-3.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-2.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-5.png)|
-|Period = $4\pi$|Period = $2\pi \over 3$ |Period = $2\pi \over 3$|
+|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-3.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-2.png)|![Alt text](image-6.png)|
+|Period = $4\pi$|Period = $2\pi \over 3$ |Period = $\pi$|
 
-|$$y = 2\csc({\pi x \over2})$$|$$y = \sec(x + {\pi \over 4})$$|$$y = \cot({\pi x \over 2})$$ |
+|$$y = 2\csc({2 \over 3}x)$$|$$y = \sec(x + {\pi \over 4})$$|$$y = \cot({3 \over 4}x)$$ |
 |:---------------------------:|:-----------------------------:|:----------------------------:|
-|![Alt text](https://github.com/Jase-Dryden/Math/blob/af48f62ff658b77e3655ac6e89a3b60f784d05ea/TrigonometricFunctions/image-6.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/af48f62ff658b77e3655ac6e89a3b60f784d05ea/TrigonometricFunctions/image-4.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/2d47ba7d4d9a7e91626d484142415a8cf8ce4e80/TrigonometricFunctions/image-14.png)|
-|Period = $5\pi \over 4$|Period = $2\pi$|Period = $3\pi \over 4$|
+|![Alt text](image-4.png)|![Alt text](image-15.png)|![Alt text](image-5.png)|
+|Period = $3$|Period = $2\pi$|Period = $3\pi \over 4$|
 ### Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
 
 Graph $y = 2\cos({3 \over 2}(x + {\pi \over 3}))- 2$
