@@ -41,13 +41,13 @@
 Period = $2\pi \over b$
 |$$y = {3 \over 2}\sin({1 \over 2}x)$$|$$y = -2\cos(3x)$$      |$$y = \tan({5 \over 6} x + {\pi \over 2})$$|
 |:-----------------------------------:|:----------------------:|:---------------------------------:|
-|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-3.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-2.png)|![Alt text](image-6.png)|
-|Period = $4\pi$|Period = $2\pi \over 3$ |Period = $\pi$|
+|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-3.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/58053dae4f13e5d7d46d0b515179ab6a465be556/TrigonometricFunctions/image-2.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/bb39200572da2313d8a8f75ec3240cfe965b123d/TrigonometricFunctions/image-6.png)|
+|Period = $4\pi$|Period = $2\pi \over 3$ |Period = $12\pi \over 5$|
 
 |$$y = 2\csc({2 \over 3}x)$$|$$y = \sec(x + {\pi \over 4})$$|$$y = \cot({3 \over 4}x)$$ |
 |:---------------------------:|:-----------------------------:|:----------------------------:|
-|![Alt text](image-4.png)|![Alt text](image-15.png)|![Alt text](image-5.png)|
-|Period = $3$|Period = $2\pi$|Period = $3\pi \over 4$|
+|![Alt text](https://github.com/Jase-Dryden/Math/blob/bb39200572da2313d8a8f75ec3240cfe965b123d/TrigonometricFunctions/image-4.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/bb39200572da2313d8a8f75ec3240cfe965b123d/TrigonometricFunctions/image-15.png)|![Alt text](https://github.com/Jase-Dryden/Math/blob/bb39200572da2313d8a8f75ec3240cfe965b123d/TrigonometricFunctions/image-5.png)|
+|Period = $3\pi$|Period = $2\pi$|Period = $8\pi \over 3$|
 ### Find the period and graph trig functions of the form $y = A \sin(B (x - C)) + D$
 
 Graph $y = 2\cos({3 \over 2}(x + {\pi \over 3}))- 2$
